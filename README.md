@@ -1,6 +1,6 @@
 # SQL Practice
 
-Self-directed SQL study sprint — targeting IBM, ING, and RELX Data Analyst roles.
+Self-directed SQL study sprint Data Analyst roles.
 
 ## Contents
 - day01_basics.sql — SELECT, WHERE, ORDER BY, INNER JOIN, LEFT JOIN, NULL handling
