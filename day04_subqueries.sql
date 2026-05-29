@@ -1,6 +1,6 @@
 -- Q1. Find all products that cost more than the average product price.
 SELECT product_name, price
-FROM products
+FROM products 
 WHERE price > (SELECT AVG(price) FROM products);
 
 -- Q2. Find all orders where the quantity is above the average quantity across all orders.
