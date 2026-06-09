@@ -3,7 +3,7 @@ No looking at your Day 4 file. No AI. Write these cold using the framework.
 
 Q1. (Day 4 Q8 rewrite) Using a derived table, calculate total revenue per customer from completed orders. 
 Show only customers whose total exceeds ₱10,000. Show customer_name and total_revenue.*/
- 
+  
 SELECT customer_name, total_revenue
 FROM (
 	SELECT c.customer_name, SUM(o.quantity*p.price) AS total_revenue
