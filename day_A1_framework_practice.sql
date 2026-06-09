@@ -8,7 +8,7 @@ SELECT customer_name, product_name, order_date
 FROM customers 
 JOIN orders USING (customer_id)
 JOIN products USING (product_id); 
-
+ 
 /*1. SHOW: customer_name, COUNT(order_id) AS order_count
   2. LIVE: customers + orders — LEFT JOIN (need to keep unmatched customers)
   3. WANT: all rows, no filter
