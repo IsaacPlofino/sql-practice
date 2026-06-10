@@ -46,9 +46,9 @@ Phase A — SQL Reinforcement + Missed Topics (Week A)
 
 | File | Topics Covered | Score |
 |------|---------------|-------|
-| `day_A1_framework_practice.sql` | 5-Question Framework applied to JOINs and Aggregations — JOIN type selection, COUNT vs SUM, WHERE vs HAVING, LIMIT vs HAVING | 10/10 |
-| `day_A2_subqueries_casewhen.sql` | Subqueries re-practice with framework + CASE WHEN + conditional aggregation | — |
-| `day_A3_windowfn_datestring.sql` | Window Functions re-practice with framework + Date functions (DATEDIFF, DATE_FORMAT, YEAR, MONTH) + String functions (CONCAT, TRIM, SUBSTRING) | — |
+| `day_A1_framework_practice.sql` | 5-Question Framework applied to JOINs and Aggregations — JOIN type selection, COUNT vs SUM, WHERE vs HAVING, LIMIT vs HAVING | 8/10 |
+| `day_A2_subqueries_casewhen.sql` | Subqueries re-practice with framework + CASE WHEN + conditional aggregation | 9/10 |
+| `day_A3_windowfn_datestring.sql` | Window Functions re-practice with framework + Date functions (DATEDIFF, DATE_FORMAT, YEAR, MONTH) + String functions (CONCAT, TRIM, SUBSTRING) | 8/10 |
 
 ---
 
